@@ -1,0 +1,15 @@
+{
+  "name": "ru-dai-mega",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
